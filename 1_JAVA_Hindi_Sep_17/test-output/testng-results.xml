@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="4007" started-at="2018-03-17T05:19:48Z" finished-at="2018-03-17T05:19:52Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="4007" started-at="2018-03-17T05:19:48Z" finished-at="2018-03-17T05:19:52Z">
+      <class name="mukesh_Otwani.CrossBrowser_Test">
+        <test-method status="PASS" signature="crossTest(java.lang.String)[pri:0, instance:mukesh_Otwani.CrossBrowser_Test@31d7b7bf]" name="crossTest" duration-ms="3973" started-at="2018-03-17T10:49:48Z" finished-at="2018-03-17T10:49:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crossTest -->
+      </class> <!-- mukesh_Otwani.CrossBrowser_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
